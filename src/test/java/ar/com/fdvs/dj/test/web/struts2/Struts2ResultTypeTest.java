@@ -29,7 +29,7 @@ public class Struts2ResultTypeTest extends TestCase {
 
         TestSuite suite = new TestSuite();
   
-        suite.addTest(new Struts2ResultTypeTest("testDynamicReport"));
+//        suite.addTest(new Struts2ResultTypeTest("testDynamicReport"));
 //        suite.addTest(new Struts2ResultTypeTest("testDynamicReportWithTemplate"));
 
 
